@@ -1,0 +1,9 @@
+pillow
+django-storages
+
+son para manejo de imagenes
+
+
+psycopg 3.2.3
+
+es para manejo de postgre con django
